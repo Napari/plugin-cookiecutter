@@ -1,0 +1,7 @@
+{
+    "author_name": "",
+    "author_email": "",
+    "plugin_title": "Plugin Example",
+    "plugin_description": "A Napari Plugin",
+    "plugin_name": "valid_python_name"
+}

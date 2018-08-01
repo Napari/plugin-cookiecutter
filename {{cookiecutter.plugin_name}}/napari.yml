@@ -1,0 +1,7 @@
+plugin_info:
+  author_name: {{ cookiecutter.author_name }}
+  author_email: {{ cookiecutter.author_email }}
+  plugin_title: {{ cookiecutter.plugin_title }}
+  short_description: {{ cookiecutter.plugin_description }}
+  plugin_name: {{ cookiecutter.plugin_name }}
+  path: {{ cookiecutter.plugin_name }}.py
